@@ -1,10 +1,10 @@
-#Proyecto Integrador "RacoonFlix"
-Materia: Programacion Web 1
+# *Proyecto Integrador "RacoonFlix"*
+**Materia: Programacion Web 1**
 
 Realizado por:
 
-Nicolas Agustin Bon 
+>[Bon, Nicolás Agustín](https://github.com/nicolassbon)
 
-Sergio Daniel Ramirez
+>[Ramirez, Sergio Daniel](https://github.com/SergioDanRam)
 
-Javier Octavio Recchia Molina 
+>[Recchia Molina, Javier Octavio](https://github.com/JaviRecchia)
